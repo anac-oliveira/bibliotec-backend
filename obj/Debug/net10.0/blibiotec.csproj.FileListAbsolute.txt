@@ -1,0 +1,15 @@
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\blibiotec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\blibiotec.AssemblyInfoInputs.cache
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\blibiotec.AssemblyInfo.cs
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\blibiotec.csproj.CoreCompileInputs.cache
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\bin\Debug\net10.0\blibiotec.exe
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\bin\Debug\net10.0\blibiotec.deps.json
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\bin\Debug\net10.0\blibiotec.runtimeconfig.json
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\bin\Debug\net10.0\blibiotec.dll
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\bin\Debug\net10.0\blibiotec.pdb
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\blibiotec.dll
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\refint\blibiotec.dll
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\blibiotec.pdb
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\blibiotec.genruntimeconfig.cache
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\ref\blibiotec.dll
+C:\Users\49356352828\Desktop\blibiotec-backend\blibiotec\obj\Debug\net10.0\blibiotec.sourcelink.json
